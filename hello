@@ -1,0 +1,6 @@
+try:
+    print("Hello")
+except:
+    print ("nothing went wrong")
+else:
+    print ("something went wrong")
